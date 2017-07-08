@@ -4,4 +4,5 @@ export class Book {
     author: string;
     isAvailable: boolean;
     description?: string;
+    volume?: string;
 }
